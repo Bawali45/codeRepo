@@ -6,6 +6,7 @@ int main()
     int num;
     cin>>num;
     int number = num;
+    
     int sum = 0;
     while(num!=0)
     {
