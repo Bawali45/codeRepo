@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-//  Celling number in the array  = Samallest element in the array which is grater then taget or equal to target.
+//  Celling number in the array  = Samallest element in the array which is grater than target or equal to the target.
 int celling_number(int arr[],int size,int val)
 {
     int start = 0;
